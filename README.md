@@ -14,7 +14,11 @@ Steps to achieve successfull import path in neon:
 1. Set circular dependency buildpath problem preference to warning (java->Compiler->Building->Buildpath problems->Circular dependencies)
 1. Checkout commit 791ec7f or latest version. The latest version has cycles between projects  bu can be imported successfully
 
+![NeonSuccess](/attachments/neon_cyclicmavenprojectssuccess.png)
+
 Execution of same steps fail in eclipse Version: 2020-03 (4.15.0) Build id: 20200313-1211
 
-m2elogs are attached
+m2elogs are attached for both versions
+
+Thanks in advance!
 
