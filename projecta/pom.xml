@@ -15,10 +15,10 @@
 	</properties>
 
 	<dependencies>
-		 <!-- <dependency>
+		 <dependency>
 			<groupId>com.mycompany.eclipseproblem</groupId>
 			<artifactId>projectb</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency> -->
+		</dependency>
 	</dependencies>
 </project>
